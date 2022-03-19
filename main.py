@@ -20,4 +20,5 @@ def Calculator():
         else:
             print("Неверный знак операции!")
 
+
 Calculator()
